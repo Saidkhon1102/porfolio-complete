@@ -2,7 +2,7 @@ export default [
   {
     title: "myteam..footer&header",
     github: "https://github.com/Saidkhon1102/myteam-footer-header.git",
-    vercel: "",
+    vercel: "https://myteam-footer-header.vercel.app/",
   },
   {
     title: "Form-action-website",

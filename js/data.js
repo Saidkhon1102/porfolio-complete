@@ -1,5 +1,10 @@
 export default [
   {
+    title: "My Team",
+    github: "https://github.com/Saidkhon1102/myteam-website.git",
+    vercel: "https://myteam-application.vercel.app/",
+  },
+  {
     title: "myteam..footer&header",
     github: "https://github.com/Saidkhon1102/myteam-about-section.git",
     vercel: "https://myteam-about-section-qxu5.vercel.app/",

@@ -1,4 +1,8 @@
-
+body{
+  margin: 0%;
+  padding: 0%;
+  box-sizing:border-box;
+}
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: "Noto Serif";
@@ -140,4 +144,33 @@ main {
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
+}
+
+
+ 
+
+.box {
+  position: absolute;
+  top: 14;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/1743995435062.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 20px;
+  border-radius: 15%; /* Yumaloq shakl */
+  opacity: 0;
+  animation: dropFade 3s ease-out forwards;
+}
+
+@keyframes dropFade {
+  0% {
+    transform: translateY(-120px); /* Tepadan boshlaydi */
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0); /* O‘z o‘rniga tushadi */
+    opacity: 1;
+  }
 }

@@ -1,5 +1,15 @@
 export default [
   {
+    title: "CoffeeRoaster website",
+    github: "https://github.com/Saidkhon1102/coffeeroaster.git",
+    vercel: "https://coffeeroaster-amber.vercel.app/",
+  },
+  {
+    title: "Animations",
+    github: "https://github.com/Saidkhon1102/animationss.git",
+    vercel: "https://animationss-ochre.vercel.app/",
+  },
+  {
     title: "My Team",
     github: "https://github.com/Saidkhon1102/myteam-website.git",
     vercel: "https://myteam-application.vercel.app/",

@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Namanganliklar",
+    github: "https://github.com/Saidkhon1102/namanganliklar.git",
+    vercel: "https://namanganliklarr.vercel.app/"
+  },
+  {
     title: "Design Solutions",
     github: "https://github.com/Saidkhon1102/Design-solutions.git",
     vercel: "https://design-solutions-nine.vercel.app/"

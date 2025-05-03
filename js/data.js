@@ -1,8 +1,8 @@
 export default [
   {
     title: "Namanganliklar",
-    github: "https://github.com/Saidkhon1102/namanganliklar.git",
-    vercel: "https://namanganliklarr.vercel.app/"
+    github: "https://github.com/Saidkhon1102/namanganliklar-website.git",
+    vercel: "https://namanganliklar-website.vercel.app/"
   },
   {
     title: "Design Solutions",

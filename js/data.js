@@ -1,5 +1,11 @@
 export default [
   {
+    title: `Grid lesson "Follower report website"`,
+    github: "https://github.com/Saidkhon1102/newgrid.git",
+    vercel: "https://newgrid.vercel.app/"
+  },
+ 
+  {
     title: "Namanganliklar",
     github: "https://github.com/Saidkhon1102/namanganliklar-website.git",
     vercel: "https://namanganliklar-website.vercel.app/"

@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Testemonials Grid section",
+    github: "https://github.com/Saidkhon1102/testemonials-grid.git",
+    vercel: "https://testemonials-grid.vercel.app/"
+  },
+  {
     title: `Grid lesson "Follower report website"`,
     github: "https://github.com/Saidkhon1102/newgrid.git",
     vercel: "https://newgrid.vercel.app/"

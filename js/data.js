@@ -1,4 +1,9 @@
 export default [
+    {
+    title: "Design Solutions new",
+    github: "https://github.com/Saidkhon1102/Design-Solutions-new.git",
+    vercel: "https://design-solutions-new.vercel.app/",
+  },
   {
     title: "tech book club landing page",
     github: "https://github.com/Saidkhon1102/tech_book-club__landing-page.git",

@@ -1,5 +1,10 @@
 export default [
   {
+    title: "tech book club landing page",
+    github: "https://github.com/Saidkhon1102/tech_book-club__landing-page.git",
+    vercel: "https://tech-book-club-landing-page-tawny.vercel.app/"
+  },
+  {
     title: `Grid lesson "Follower report website"`,
     github: "https://github.com/Saidkhon1102/newgrid.git",
     vercel: "https://newgrid.vercel.app/"

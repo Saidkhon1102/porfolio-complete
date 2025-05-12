@@ -1,5 +1,16 @@
 export default [
+  
     {
+    title: "W-website",
+    github: "https://github.com/Saidkhon1102/w-website.git",
+    vercel: "https://w-website-three.vercel.app/",
+  },
+  {
+    title: "Intro-Component",
+    github: "https://github.com/Saidkhon1102/Intro-Component.git",
+    vercel: "https://intro-component-tawny-eight.vercel.app/",
+  },
+  {
     title: "Design Solutions new",
     github: "https://github.com/Saidkhon1102/Design-Solutions-new.git",
     vercel: "https://design-solutions-new.vercel.app/",

@@ -6,8 +6,8 @@ export default [
     },
     {
     title: "Insure-landing page(Imtixon)",
-    github: "https://github.com/Saidkhon1102/Insure-Landing-pagee.git",
-    vercel: "https://insure-landing-pagee.vercel.app/",
+    github: "https://github.com/Saidkhon1102/Insure-Landing-pagee-main.git",
+    vercel: "https://insure-landing-pagee-main.vercel.app/",
     },
     {
     title: "W-website",

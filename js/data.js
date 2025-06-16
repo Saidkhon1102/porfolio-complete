@@ -1,5 +1,10 @@
 export default [
-     {
+  {
+    title: "JS (Imtixon)",
+    github: "https://github.com/Saidkhon1102/JsExam.git",
+    vercel: "https://js-exam-m3lv.vercel.app/",
+  }, 
+  {
     title: "Sunny-Land(Imtixon)",
     github: "https://github.com/Saidkhon1102/sunnyside-agency.git",
     vercel: "https://sunnyside-agency-c3cz.vercel.app/",

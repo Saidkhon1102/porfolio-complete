@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Nexcent(Imtixon)",
+    github: "https://github.com/Saidkhon1102/Nexcent-website.git",
+    vercel: "https://nexcent-website-two.vercel.app/",
+  }, 
+  {
     title: "JS (Imtixon)",
     github: "https://github.com/Saidkhon1102/JsExam.git",
     vercel: "https://js-exam-m3lv.vercel.app/",

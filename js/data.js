@@ -1,4 +1,9 @@
 export default [
+    {
+    title: "PlayerProject",
+    github: "https://github.com/Saidkhon1102/playerProject.git",
+    vercel: "https://player-project-five.vercel.app/",
+  }, 
   {
     title: "Nexcent(Imtixon)",
     github: "https://github.com/Saidkhon1102/Nexcent-website.git",

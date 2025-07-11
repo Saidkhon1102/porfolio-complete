@@ -1,7 +1,7 @@
 export default [
   {
     title: "Eccomerse website",
-    github: "https://github.com/naimjonov/5-oy-9dars.git",
+    github: "",
     vercel: "",
   }, 
   {

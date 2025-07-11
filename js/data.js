@@ -1,5 +1,10 @@
 export default [
-    {
+  {
+    title: "Eccomerse website",
+    github: "https://github.com/naimjonov/5-oy-9dars.git",
+    vercel: "",
+  }, 
+  {
     title: "PlayerProject",
     github: "https://github.com/Saidkhon1102/playerProject.git",
     vercel: "https://player-project-five.vercel.app/",

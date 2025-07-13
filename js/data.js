@@ -1,7 +1,7 @@
 export default [
   {
-    title: "Eccomerse website",
-    github: "",
+    title: "Eccomerse website full",
+    github: "https://github.com/Saidkhon1102/10dars.git",
     vercel: "",
   }, 
   {
